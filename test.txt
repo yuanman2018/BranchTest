@@ -6,6 +6,8 @@ eeeeeeeeee
 fffffffffff
 ggggggggggggg
 <use 2
+<uses 1
 yyyyyyyyyyy
+hhhhhhhhhhhh
 iiiiiiiiiiiiii
 
