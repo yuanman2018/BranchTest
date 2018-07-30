@@ -8,6 +8,8 @@ ggggggggggggg
 <use 2
 <uses 1
 <use 5
+<uses 3
+<uses 4
 yyyyyyyyyyy
 hhhhhhhhhhhh
 iiiiiiiiiiiiii
