@@ -5,7 +5,6 @@ ddddddddddd
 eeeeeeeeee
 fffffffffff
 ggggggggggggg
-yyyyyyyyyyyy
 <use 2
 <uses 1
 <use 5
